@@ -1,1 +1,31 @@
-2025-10-15 15:20:59 [ERROR]: Something went wrong!
+2025-10-16 12:56:21 [ERROR]: TypeError: ErrorResponse is not a function
+    at AirplaneController.createAirplane (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\src\controllers\airplane-Controller.js:15:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-16 12:59:51 [ERROR]: TypeError: ErrorResponse is not a function
+    at AirplaneController.createAirplane (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\src\controllers\airplane-Controller.js:15:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-16 13:01:08 [ERROR]: TypeError: ErrorResponse is not a function
+    at AirplaneController.createAirplane (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\src\controllers\airplane-Controller.js:16:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-16 16:05:09 [ERROR]: TypeError: ErrorResponse is not a function
+    at CityController.createCity (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\src\controllers\city-controller.js:16:15)
+    at C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\src\routes\v1\city.Routes.js:9:18
+    at Layer.handleRequest (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\index.js:291:5)
+2025-10-16 16:06:13 [ERROR]: ReferenceError: ErrorResponse is not defined
+    at CityController.createCity (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\src\controllers\city-controller.js:16:9)
+    at C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\src\routes\v1\city.Routes.js:9:18
+    at Layer.handleRequest (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\RAKESH\OneDrive\Documents\AirTicketBooking\Airline-Ticket-Booking\backend\node_modules\router\index.js:291:5)
